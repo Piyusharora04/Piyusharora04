@@ -89,6 +89,7 @@ Tech: Streamlit, LaMini-T5, ChromaDB
 
 - 📬 Email: [arorapiyush991@gmail.com](mailto:arorapiyush991@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/piyush-arora-363a59265](https://www.linkedin.com/in/piyush-arora-363a59265)  
+- 🔗 Portfolio: [piyush-arora-portfolio](https://piyush-arora-portfolio.vercel.app/)
 - 🌐 Codolio: [codolio.com/profile/Piyush004](https://codolio.com/profile/Piyush004)
 
 Thanks for stopping by! Feel free to check out my projects or shoot me a message :)
